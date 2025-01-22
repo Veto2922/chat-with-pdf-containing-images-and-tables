@@ -1,1 +1,1 @@
-# chat-with-pdf-containing-images-and-tables
+# chat-with-pdfs-containing-images-and-tables
